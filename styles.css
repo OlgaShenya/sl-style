@@ -1,0 +1,135 @@
+.my {height: 6.3em;
+    border: none;
+	background: #333333; 	
+	}
+.rightpic {
+	float: right;
+	margin: 0 0 5px 5px;
+}
+#page_align {
+    border-radius: 0.5em;
+    width: 900px;
+    margin: 1em auto;
+    /background: #EFEFEF;
+    box-shadow: 0.8em 0.8em 1.6em black;
+    overflow: hidden;
+}
+#phone {
+    float: left;
+    width: 7.8em;
+    height: 2.5em;
+    margin: 0.5em 0.5em;
+    border: solid 2px #FF9900;
+    border-radius: 8px;
+    padding: 0.1em 0.5em;
+    font: 18pt ARIAL;
+    font-weight: bold;
+}
+#flash {
+    position: absolute;        /**/
+    width: 19em;
+    height: 2em;
+    top: 7.4em;
+    margin-left: 32em;       /**/
+	border-left: solid 5px #FF9900;
+    border-right: solid 5px #FF9900;
+    border-top: solid 1px #FF9900;
+    border-bottom: solid 1px #FF9900;
+    border-radius: 8px;
+    padding: 0.2em 0.8em;
+    background: rgba(51, 51, 51, 0.7);
+}
+#flash a {
+    color: #FF9900;
+    font: 22pt ARIAL;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+	color: #FF9900;
+}
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+#navi {
+    height: 2em;
+    background: #333333;
+}
+#navi ul li {
+    float: left;
+}
+#navi ul {
+    color: #FF9900;
+    display: block;
+    padding: 0.35em 0.7em;
+	list-style: none;
+}
+#navi ul li {
+	color: #FF9900;
+	display: block;
+	padding: 0.35em 0.7em;
+	padding-top: 0;
+}
+#content {
+    height: 46em;
+    width: 100%;
+    overflow: hidden;
+}
+.prod {
+	box-shadow: 4px 4px 8px black;
+	width: 420px;
+	height: 112px;
+	margin: 1em 0 0 .8em;
+}
+
+.topics_col {
+    margin-left: 5px;
+    width: 440px;
+    float: left;
+}
+.prod img {
+    width: 150px;
+    height: 100%;
+    float: left;
+}
+.topic_head {
+    display: inline-block;
+    margin-left: -156px;
+    margin-top: 5px;
+    padding-right: 10px;
+    width: 415px;
+    background: #333333; 
+    color: #FF9900;
+    text-align: right;
+    border-top: solid 2px #FF9900;
+    border-bottom: solid 1px #FF9900;
+}
+.prod p {
+    margin-left: 155px;
+    margin-top: 2px;
+    width: 260px;
+    height: 80px;
+    overflow: hidden;
+}
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+.prod a p {
+    display: block;
+    color: #333333;
+    height: 112px;
+    font: 9pt arial;
+}
+#info {
+    height: 1,3em;
+    background: #333333;
+    padding: 0.3em 2em;
+    text-align: center;
+	color: #FF9900;
+}
+
